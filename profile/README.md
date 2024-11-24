@@ -2,6 +2,8 @@
 
 **并且！请您不要破坏游戏内代码，如制作破解版并分发（就算自己没改，然后自行构建分发）我们并不支持，如果出现此类事情后我们会立即关闭此仓库！**
 
+**在2024/11/24时此项目仍处于新建文件夹阶段，并且因为开发者现实原因和Unity的不稳定性短时间不会进行开发，还请谅解**
+
 您可以在[此处](https://github.com/offline-colle/kancolle-offline/discussions)讨论与浏览开发公告等信息
 
 因为开发重心不在这边，所以开发周期会非常的长，主要是要做[这款同人游戏](https://github.com/sakura-society/houbun-fantasia)www
